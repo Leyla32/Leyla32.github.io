@@ -1,1 +1,24 @@
 
+body {
+  background-image: url("https://i.pinimg.com/736x/d7/cb/e4/d7cbe47d5b273121cc2f16df2708add7.jpg");
+  background-color: #cccccc;
+  
+ 
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid silver;
+  border-bottom: 1px solid silver;
+  background-color: rgb(219, 193, 208);
+  
+}
+ img{
+ float:right;
+}
+
+p{
+ clear:right;
+}
+  

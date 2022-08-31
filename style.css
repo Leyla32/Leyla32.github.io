@@ -1,6 +1,8 @@
 body {
   background-image: url("https://i.pinimg.com/736x/d7/cb/e4/d7cbe47d5b273121cc2f16df2708add7.jpg");
   background-color: #cccccc;
+   background-repeat: no-repeat;
+  background-size: cover;
   
 }
 
@@ -17,4 +19,12 @@ body {
 }
 p{
  clear:right;
+}
+  
+h6{
+ float:right;
+  clear:right;} 
+
+th{
+  list-style-type: circle;
 }
